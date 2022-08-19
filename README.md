@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @Just-Kundai
 
-#### I am a newbie software engineer with a background in law, digital marketing and entrepreneurship.
+#### I am a newbie software engineer with a background in law.
 
 
 - 🌱 I just completed a 3 month software engineering bootcamp 
