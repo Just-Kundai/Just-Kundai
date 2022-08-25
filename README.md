@@ -3,7 +3,7 @@
 #### I am a newbie software engineer with a background in law.
 
 
-- 🌱 I just completed a 3 month software engineering bootcamp 
+- 🌱 Completed a 3 month software engineering bootcamp 
 - 💞️ I’m looking to collaborate on any software engineering projects 
 - 📫 How to reach me .. on instagram @justkundai and kundaikhuleya@outlook.com
 
