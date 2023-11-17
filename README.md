@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @Just-Kundai
+### 👋 Hi, I’m Kundai
 
 #### I am a software engineer and currently in the process of becoming a lawyer .
 
